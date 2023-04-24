@@ -1,0 +1,4 @@
+    $Username = stripcslashes($Username);
+    $Username = mysqli_real_escape_string($conn, $Username);
+    $Password = stripcslashes($Password);
+    $Password = mysqli_real_escape_string($conn, $Password); 
